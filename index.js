@@ -1,3 +1,4 @@
+/*git remote set-url origin https://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@github.com/rajesht738/react-native-newsApp.git*/
 /**
  * @format
  */
